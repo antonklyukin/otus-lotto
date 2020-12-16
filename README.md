@@ -1,6 +1,7 @@
 # otus-lotto
 
-Запуск python -m lotto
+Запуск программы: python -m lotto
+Запуск тестов: pytest tests/test_card.py
 
 Написать игру "Лото"
 Цель: В этой самостоятельной работе тренируем умения:
